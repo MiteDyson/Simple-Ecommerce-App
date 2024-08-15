@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "A Sack of Tomatoes",
+    "description": "Healthy and organic tomatoes scouced directly from farmers ",
+    "price": 9.99,
+    "imageUrl": "https://as2.ftcdn.net/v2/jpg/05/37/04/61/1000_F_537046123_s8JVn2NrClPQDOryhSm8jonYZPfIzPRX.webp"
+  },
+  {
+    "id": "2",
+    "name": "A bundle of Cucumbers",
+    "description": "Healthy and organic Cucumbers scouced directly from farmers",
+    "price": 6.99,
+    "imageUrl": "https://t4.ftcdn.net/jpg/02/66/68/37/240_F_266683754_wzx9XxeNXKudct2Q3qwQf1PvVaQaKOf6.jpg"
+  },
+  {
+    "id": "3",
+    "name": "A Sack of Tomatoes",
+    "description": "Fresh and organic Potatoes grown by certified farmers  ",
+    "price": 4.99,
+    "imageUrl": "https://t3.ftcdn.net/jpg/00/41/30/10/240_F_41301053_AbLi3hlosbLajBo7lQdNyfGz9eusxY1x.jpg"
+  },
+  {
+    "id": "4",
+    "name": "An ounce of Ginger ",
+    "description": "Fresh from the farm",
+    "price": 9.99,
+    "imageUrl": "https://t3.ftcdn.net/jpg/05/35/26/80/240_F_535268032_hq3Gt51SGSIU2yno6NU7h07FDERvgS5Y.jpg"
+  },
+  {
+    "id": "5",
+    "name": "A bunde of Cilantro",
+    "description": "Freeshly chopped Cilantro",
+    "price": 1.99,
+    "imageUrl": "https://t4.ftcdn.net/jpg/05/10/24/77/240_F_510247704_Md2nhoc1HnOgAL8ZdHwXJKnHgHjzn3QH.jpg"
+  },
+  {
+    "id": "6",
+    "name": "3 Ginger Cloves ",
+    "description": "Organic and genetically modified Garlic.",
+    "price": 8.99,
+    "imageUrl": "https://t3.ftcdn.net/jpg/07/14/19/50/240_F_714195053_aOACYuNdEbSc8pl2GSXb9iVQwBsUKEj7.jpg"
+  }
+]
